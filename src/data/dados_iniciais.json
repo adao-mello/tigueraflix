@@ -1,107 +1,119 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Ciência",
+      "link": "https://www.youtube.com/results?search_query=Ci%C3%AAncia",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Aprenda ciência de forma divertida e interessante",
+        "url": "https://www.youtube.com/results?search_query=Ci%C3%AAncia"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "ONDE ESTÃO TODOS ALIENÍGENAS? Especial Nostalgia Ciência",
+          "url": "https://www.youtube.com/watch?v=YJsPmC8e7A4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "A origem do universo | Teoria do BIG BANG",
+          "url": "https://www.youtube.com/watch?v=Bl8Q7Lt56y0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Como o Som Funciona? | Ciência Todo Dia",
+          "url": "https://www.youtube.com/watch?v=WLM6-By0qBg"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Ciência de Tudo - Por Que Estamos Aqui? | O Planeta Terra",
+          "url": "https://www.youtube.com/watch?v=zYnJQhjzXWU"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "O que é o Coronavírus? | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=e-JaQOeFxtI"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "E se você levasse um meteoro de Pégaso | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=gwFJZM2fIoc"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Como fazer a BOLA DE GELO perfeita! | Manual do Mundo",
+          "url": "https://www.youtube.com/watch?v=6VUec5au_Q0"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "A CIÊNCIA EM DARK (NETFLIX) | Física e Afins",
+          "url": "https://www.youtube.com/watch?v=wAQcOtxbMdY"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "História",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "História, estudo das ações do homem no tempo e espaço.",
+        "url": "https://www.youtube.com/results?search_query=Hist%C3%B3ria"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "A Gripe Espanhola de 1918 | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=_gm66nW1Jek"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Guerra Fria - EUA vs URSS / Nostalgia HISTÓRIA",
+          "url": "https://www.youtube.com/watch?v=6Gi4_GJXO4I"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Chernobyl: A História Completa | Ciência Todo Dia",
+          "url": "https://www.youtube.com/watch?v=DiGqjYkRQ6o"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "A Batalha de Guararapes e a invenção do Exército Brasileiro | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=EP5GnomiyPA"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Lampião, the King of Cangaço | EDUARDO BUENO",
+          "url": "https://www.youtube.com/watch?v=DuUH4sWYfk4"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Receitas diversas",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Nem só de pão, vive a quarentena",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Okonomiyaki das Quebrada feat. Murakami & Cooking With Dog | Rolê Gourmet",
+          "url": "https://www.youtube.com/watch?v=RcqABGlVw0E"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "PANQUECAS MEXICANAS DELICIOSAS | Receitas Comentadas | Tastemade Brasil",
+          "url": "https://www.youtube.com/watch?v=4V00hTfBTXQ"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Yakisoba caseiro | Receitas do Kazu",
+          "url": "https://www.youtube.com/watch?v=tJrSTpWxs98"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "ENSOPADO DE CARNE: como fazer receita prática, acessível e deliciosa | Rita Lobo",
+          "url": "https://www.youtube.com/watch?v=p9NxjcfuYlE"
+        },
+        {
+          "titulo": "RAMEN DO NARUTO (Ichiraku Ramen) | Comida Pop | Gastronomismo",
+          "url": "https://www.youtube.com/watch?v=QDcyS2WcESQ"
+        },
+        {
+          "titulo": "BROWNIE DE CHOCOLATE PRESTÍGIO | ASMR | Danielle Noce",
+          "url": "https://www.youtube.com/watch?v=TuCEmJmGaNY"
         }
       ]
     },
     {
       "titulo": "Filmes",
       "cor": "orange",
+      "link_extra": {
+        "text": "Bora assistir a um filminho?",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
       "videos": [
         {
           "titulo": "Interestellar",

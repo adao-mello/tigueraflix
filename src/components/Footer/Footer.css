@@ -1,0 +1,9 @@
+.Logo_SWT {
+    height: 40px;
+  }
+
+  @media (max-width: 800px) {
+    .Logo_SWT {
+      max-width: 200px;
+    }
+  }
